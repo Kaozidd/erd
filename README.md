@@ -2,7 +2,7 @@
 
 ## Company ERD
 
-![alt text](https://raw.githubusercontent.com/kaozidd/erd/master/img/Company-ERD.png)
+![alt text](https://raw.githubusercontent.com/kaozidd/erd/master/img/company-erd-01.png)
 
 ## Library ERD
 
